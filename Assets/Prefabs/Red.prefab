@@ -11,8 +11,9 @@ GameObject:
   - component: {fileID: 4513171289389142656}
   - component: {fileID: 4516512844298400804}
   - component: {fileID: 3882823305056782103}
+  - component: {fileID: 8774716058990628329}
   m_Layer: 0
-  m_Name: Red Potion
+  m_Name: Red
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27,8 +28,8 @@ Transform:
   m_GameObject: {fileID: 3154204763812218447}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.263, y: 0.184, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.8, y: 0.8, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -106,3 +107,22 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8774716058990628329
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3154204763812218447}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09493f6b942345b4e9b842331fca6bbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  candyType: 0
+  xIndex: 0
+  yIndex: 0
+  isMatched: 0
+  currentPos: {x: 0, y: 0}
+  targetPos: {x: 0, y: 0}
+  isMoving: 0
