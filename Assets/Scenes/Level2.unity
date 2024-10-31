@@ -581,6 +581,30 @@ PrefabInstance:
       propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 422607128585028879, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 422607128585028879, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
+      propertyPath: m_ScreenMatchMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422607128585028879, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 422607128585028879, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 1200
+      objectReference: {fileID: 0}
+    - target: {fileID: 422607128585028879, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 1200
+      objectReference: {fileID: 0}
+    - target: {fileID: 422607128585028879, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
+      propertyPath: m_ReferencePixelsPerUnit
+      value: 200
+      objectReference: {fileID: 0}
     - target: {fileID: 496366328732057833, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
       propertyPath: m_sharedMaterial
       value: 
@@ -621,6 +645,14 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 1852336526}
+    - target: {fileID: 5920830260741940583, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
+      propertyPath: m_PixelPerfect
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5920830260741940583, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
+      propertyPath: m_UpdateRectTransformForStandalone
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6321515972692924531, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
       propertyPath: m_hasFontAssetChanged
       value: 0
