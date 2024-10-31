@@ -162,54 +162,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 496366328732057833, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_hasFontAssetChanged
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 534063415817612303, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 697892037}
-    - target: {fileID: 534063415817612303, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: LoseGame
-      objectReference: {fileID: 0}
-    - target: {fileID: 642039732493426687, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1731922900414280023, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_Type
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1731922900414280023, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 90b722d787d396c488692482ca379484, type: 3}
-    - target: {fileID: 1731922900414280023, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_Color.b
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1731922900414280023, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_Color.g
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 1731922900414280023, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_Color.r
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 1854900393570944963, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 697892037}
-    - target: {fileID: 1854900393570944963, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: PauseGame
-      objectReference: {fileID: 0}
-    - target: {fileID: 2939864480222818079, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 3702131552092506061, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
       propertyPath: m_Name
       value: Canvas
@@ -218,36 +178,16 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 697892037}
-    - target: {fileID: 4805747601746189404, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: ResumeGame
-      objectReference: {fileID: 0}
     - target: {fileID: 5538277331255450682, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 697892037}
-    - target: {fileID: 5538277331255450682, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: WinGame
-      objectReference: {fileID: 0}
     - target: {fileID: 5920830260741940583, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 519420031}
     - target: {fileID: 5920830260741940583, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
       propertyPath: m_PixelPerfect
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6321515972692924531, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_hasFontAssetChanged
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6586849259134287720, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_text
-      value: Level 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6665675687180930038, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_hasFontAssetChanged
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7692064295270763191, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
@@ -330,18 +270,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7709273282748728951, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_hasFontAssetChanged
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8325782546148951894, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 697892037}
-    - target: {fileID: 8325782546148951894, guid: 09dfb41a90ea2e1409cc899ff7bec741, type: 3}
-      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
-      value: LoseGame
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -525,7 +457,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.8, y: 0.8, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -765,6 +697,6 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 697892038}
   - {fileID: 195447637}
+  - {fileID: 642282453}
   - {fileID: 517051187}
   - {fileID: 194420568}
-  - {fileID: 642282453}
